@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="SOLID\Liskov\" />
+    <Folder Include="SOLID\OpenSource\" />
+    <Folder Include="SOLID\Simple\" />
+  </ItemGroup>
+
 </Project>
