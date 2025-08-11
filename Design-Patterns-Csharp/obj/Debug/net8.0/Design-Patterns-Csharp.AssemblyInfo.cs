@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Design-Patterns-Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e1474a418e0bf325aa96af85f994182ba0e314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290963aab4c53c7b3118a4db3d287d2a5ab3039f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Design-Patterns-Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Design-Patterns-Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

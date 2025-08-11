@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Creacionales\" />
+    <Folder Include="Comportamiento\" />
+    <Folder Include="Estructurales\" />
     <Folder Include="SOLID\Liskov\" />
     <Folder Include="SOLID\OpenSource\" />
     <Folder Include="SOLID\Simple\" />
