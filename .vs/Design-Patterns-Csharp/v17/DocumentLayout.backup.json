@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\interfacesegregation\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\interfacesegregation\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\interfacesegregation\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\interfacesegregation\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\interfacesegregation\\rectangulosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\interfacesegregation\\rectangulosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\rectangulosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\rectangulosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Program.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Program.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Program.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T01:23:11.02Z",
               "EditorCaption": ""
@@ -53,44 +53,41 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RectanguloSRP.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\RectanguloSRP.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\RectanguloSRP.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\RectanguloSRP.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\RectanguloSRP.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:21:45.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T01:21:45.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Rectangulo.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Rectangulo.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:18:16.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Presentacion.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Presentacion.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Presentacion.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Presentacion.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\InterfaceSegregation\\Presentacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:17:46.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T01:18:16.426Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Presentacion.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T01:17:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\Program.cs",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Design-Patterns-Csharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:19:48.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T00:19:48.936Z"
             }
           ]
         }
