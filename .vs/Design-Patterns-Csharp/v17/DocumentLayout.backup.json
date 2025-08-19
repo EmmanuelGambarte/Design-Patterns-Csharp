@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\simple\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +46,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\README.md",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\README.md",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\README.md",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\README.md",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-19T01:09:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Demo.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Demo.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Demo.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:07:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
               "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
               "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Simple\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:23:11.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T01:23:11.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RectanguloSRP.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\RectanguloSRP.cs",
@@ -63,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Rectangulo.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Rectangulo.cs",
@@ -75,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Presentacion.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Simple\\Presentacion.cs",
@@ -87,15 +119,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Design-Patterns-Csharp\\Program.cs",
               "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\Program.cs",
               "RelativeToolTip": "Design-Patterns-Csharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:19:48.936Z"
+              "WhenOpened": "2025-08-09T00:19:48.936Z",
+              "EditorCaption": ""
             }
           ]
         }

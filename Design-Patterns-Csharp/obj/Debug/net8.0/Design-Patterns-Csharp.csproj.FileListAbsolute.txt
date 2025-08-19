@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.sourcelink.json
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\bin\Debug\net8.0\Design-Patterns-Csharp.exe
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\bin\Debug\net8.0\Design-Patterns-Csharp.deps.json
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\bin\Debug\net8.0\Design-Patterns-Csharp.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\bin\Debug\net8.0\Design-Patterns-Csharp.dll
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\bin\Debug\net8.0\Design-Patterns-Csharp.pdb
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.dll
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\refint\Design-Patterns-Csharp.dll
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.pdb
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\Design-Patterns-Csharp.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\CSharp-NET\Design-Patterns-Csharp\Design-Patterns-Csharp\obj\Debug\net8.0\ref\Design-Patterns-Csharp.dll

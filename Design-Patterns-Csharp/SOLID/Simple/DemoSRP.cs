@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Design_Patterns_Csharp.SOLID.Simple
 {
-    public static class Demo
+    public static class DemoSRP
     {
         public static void Run()
         {
