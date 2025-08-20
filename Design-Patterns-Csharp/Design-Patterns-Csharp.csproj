@@ -15,7 +15,7 @@
     <Folder Include="SOLID\InterfaceSegregation\" />
     <Folder Include="SOLID\Liskov\" />
     <Folder Include="SOLID\InversionDeDependencia\" />
-    <Folder Include="SOLID\OpenSource\" />
+    <Folder Include="SOLID\OpenClose\" />
   </ItemGroup>
 
 </Project>
