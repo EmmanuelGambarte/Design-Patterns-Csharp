@@ -1,4 +1,5 @@
-﻿using Design_Patterns_Csharp.SOLID.Liskov;
+﻿using Design_Patterns_Csharp.SOLID.InterfaceSegregation;
+using Design_Patterns_Csharp.SOLID.Liskov;
 using Design_Patterns_Csharp.SOLID.OpenClose;
 using Design_Patterns_Csharp.SOLID.Simple;
 using System;
@@ -31,6 +32,9 @@ namespace Design_Patterns_Csharp.Menu
                     case "3":
                         DemoLiskov.Run();
                         break;
+                        case "4":
+                        DemoIS.Run();
+                            break;
                     case "0":
                         return;
                     default:

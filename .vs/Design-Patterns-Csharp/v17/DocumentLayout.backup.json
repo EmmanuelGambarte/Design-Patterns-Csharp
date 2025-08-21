@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\menu\\menusolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\menu\\menusolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\liskov\\demoliskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\liskov\\demoliskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\demoopenclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\demoopenclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\presentacionoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\presentacionoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\liskov\\gatodomesticopsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\liskov\\gatodomesticopsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\liskov\\ifelinopsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\liskov\\ifelinopsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\rectangulooc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\rectangulooc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\liskov\\jaguar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\liskov\\jaguar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\triangulooc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\triangulooc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\openclose\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\openclose\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|c:\\users\\emman\\onedrive\\desktop\\csharp-net\\design-patterns-csharp\\design-patterns-csharp\\solid\\liskov\\gatodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5B95A6-F2DA-4567-8188-A43FB8204D31}|Design-Patterns-Csharp\\Design-Patterns-Csharp.csproj|solutionrelative:design-patterns-csharp\\solid\\liskov\\gatodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,110 +43,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\README.md",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\README.md",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\README.md",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-20T02:40:14.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RectanguloOC.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\RectanguloOC.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\RectanguloOC.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\RectanguloOC.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\RectanguloOC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Title": "MenuSolid.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\Menu\\MenuSolid.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\Menu\\MenuSolid.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\Menu\\MenuSolid.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\Menu\\MenuSolid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:37:22.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrianguloOC.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\TrianguloOC.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\TrianguloOC.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\TrianguloOC.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\TrianguloOC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:36:45.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Triangulo.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Triangulo.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Triangulo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:35:49.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Rectangulo.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Rectangulo.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Rectangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:34:40.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PresentacionOC.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\PresentacionOC.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\PresentacionOC.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\PresentacionOC.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\PresentacionOC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:34:02.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Presentacion.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Presentacion.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Presentacion.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\Presentacion.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\Presentacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:32:53.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IFigura.cs",
-              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\IFigura.cs",
-              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\IFigura.cs",
-              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\IFigura.cs",
-              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\IFigura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:32:31.368Z",
+              "WhenOpened": "2025-08-21T00:14:31.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoOpenClose.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\DemoOpenClose.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\OpenClose\\DemoOpenClose.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\OpenClose\\DemoOpenClose.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\OpenClose\\DemoOpenClose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:14:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoLiskov.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\DemoLiskov.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Liskov\\DemoLiskov.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\DemoLiskov.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Liskov\\DemoLiskov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:11:25.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GatoDomesticoPSL.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomesticoPSL.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomesticoPSL.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomesticoPSL.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomesticoPSL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:08:59.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFelinoPSL.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\IFelinoPSL.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Liskov\\IFelinoPSL.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\IFelinoPSL.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Liskov\\IFelinoPSL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:08:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jaguar.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\Jaguar.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Liskov\\Jaguar.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\Jaguar.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Liskov\\Jaguar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:07:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GatoDomestico.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomestico.cs",
+              "RelativeDocumentMoniker": "Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomestico.cs",
+              "ToolTip": "C:\\Users\\emman\\OneDrive\\Desktop\\CSharp-NET\\Design-Patterns-Csharp\\Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomestico.cs",
+              "RelativeToolTip": "Design-Patterns-Csharp\\SOLID\\Liskov\\GatoDomestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:07:24.052Z",
+              "EditorCaption": ""
             }
           ]
         }

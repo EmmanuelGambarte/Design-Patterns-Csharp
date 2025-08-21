@@ -12,7 +12,6 @@
     <Folder Include="Creacionales\" />
     <Folder Include="Comportamiento\" />
     <Folder Include="Estructurales\" />
-    <Folder Include="SOLID\InterfaceSegregation\" />
     <Folder Include="SOLID\InversionDeDependencia\" />
   </ItemGroup>
 
