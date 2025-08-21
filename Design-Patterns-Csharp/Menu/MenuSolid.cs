@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Design_Patterns_Csharp.SOLID.Liskov;
+using Design_Patterns_Csharp.SOLID.OpenClose;
 using Design_Patterns_Csharp.SOLID.Simple;
+using System;
 
 namespace Design_Patterns_Csharp.Menu
 {
@@ -24,7 +26,10 @@ namespace Design_Patterns_Csharp.Menu
                         DemoSRP.Run();
                         break;
                     case "2":
-                        //DemoOpenClose.Run();
+                        DemoOpenClose.Run();
+                        break;
+                    case "3":
+                        DemoLiskov.Run();
                         break;
                     case "0":
                         return;

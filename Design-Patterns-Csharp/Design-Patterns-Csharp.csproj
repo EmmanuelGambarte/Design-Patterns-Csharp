@@ -13,7 +13,6 @@
     <Folder Include="Comportamiento\" />
     <Folder Include="Estructurales\" />
     <Folder Include="SOLID\InterfaceSegregation\" />
-    <Folder Include="SOLID\Liskov\" />
     <Folder Include="SOLID\InversionDeDependencia\" />
   </ItemGroup>
 
