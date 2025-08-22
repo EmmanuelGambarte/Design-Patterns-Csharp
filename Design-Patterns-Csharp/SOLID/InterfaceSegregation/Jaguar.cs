@@ -13,14 +13,10 @@ namespace Design_Patterns_Csharp.SOLID.InterfaceSegregation
         {
             Console.WriteLine("El jaguar ruge!");
         }
-
-        
     public void cazar()
         {
             Console.WriteLine("El jaguar caza!");
-        }
-
-        
+        }        
     public void maullar()
         {
             // ⚠️ Jaguar no maúlla: estamos forzando una implementación sin sentido
